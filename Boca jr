@@ -1,0 +1,17 @@
+- Python, o python é uma linguagem de programação imperativa, interpretada, de alto nível e com tipagem forte e dinâmica 
+Ela é considerada uma linguagem multi-paradigma, pois aceita diferentes formas de programação.
+
+2- Java, a linguagem de programação Java é caracterizada por ser simples, orientada a objetos, distribuída, multithread, dinâmica, arquitetura neutra, portátil, alta performance, robusta e segura.
+e é muito popular em desenvolvimento de sites e aplicativos para qualquer tipo de hardware
+
+3- C, é uma linguagem muito antiga e vem desde antes da internet existir, hoje em dia ela ainda é usada para o desenvolvimento de softwares
+uma de suas vantagens é que seus programas são executados com maior velocidade de processamento e ocupam menos espaço na memória
+porém em contrapartida, os codigos escritos em C são pouco portáveis, ou seja um código gerado para esse tipo de processador, não serve para nenhum outro
+
+Código python :)
+
+rodrigo = input("Coloque um número aqui")
+if rodrigo % 2 == 0:
+    print("O seu número é Par!!")
+if daniel % 2 != 0:
+    print("O seu número é impar!!")
